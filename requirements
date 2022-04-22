@@ -1,2 +1,4 @@
 kivymd==0.104.2
 web3==5.28.0
+pycryptodome==3.14.1
+pycryptodomex==3.10.1
